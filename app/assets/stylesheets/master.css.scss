@@ -67,3 +67,17 @@ body {
 .booyah-box h2, .booyah-box h1  {
   margin: 10px;
 }
+
+.clr  {
+  clear: both;
+}
+
+.Site {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+.Site-content {
+  flex: 1;
+}
