@@ -35,6 +35,8 @@ gem 'rails_12factor', group: :production
 
 gem 'devise', '>= 3.2.4'
 
+gem 'carrierwave'
+
 
 
 group :doc do
